@@ -13,9 +13,9 @@ var floor = Math.floor(randomNumber)
 console.log(floor)
 
 console.log('The random number is ' + randomNumber)
-console.log('The random number rounded up is ' + Math.round(randomNumber))
-console.log('The random number rounded to the next largest integer is ' + Math.ceil(randomNumber))
-console.log('The random number rounded to the next smallest integer is ' + Math.floor(randomNumber))
+console.log('The random number rounded up is ' + round)
+console.log('The random number rounded to the next largest integer is ' + ceiling)
+console.log('The random number rounded to the next smallest integer is ' + floor)
 
 // Answer for Exercise 3 //
 

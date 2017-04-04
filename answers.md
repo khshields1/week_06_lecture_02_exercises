@@ -1,12 +1,12 @@
 1) D. Globally
 
-2) The epoch is a specific point in time.
+2) The epoch is January 1, 1970 at midnight.
 
 3) A. basic arithmetic
    B. rounding numbers
    D. random number generation
 
-4) B. Math.random(20) + 10
+4) D. Math.round(Math.random() * 10) + 10
 
 
 Exercises
